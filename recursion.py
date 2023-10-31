@@ -23,6 +23,7 @@ def what_day(day):
         return "Saturday"
     elif day == 7:
         return "Sunday"
-    
+    else:
+        return "Invalid day"
 
 print(what_day(day))
