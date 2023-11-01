@@ -27,3 +27,4 @@ def what_day(day):
         return "Invalid day"
 
 print(what_day(day))
+print(what_day(day + 1))
