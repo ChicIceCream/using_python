@@ -14,5 +14,4 @@ int main()
         printf("Number is odd \n");
     }
     return 0;
-
 }
