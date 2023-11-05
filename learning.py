@@ -15,10 +15,17 @@
 # print(mylist)
 
 new_list = [1,2,3,4,5] * 5 # this repeats the whole list
-print(new_list)
+# print(new_list)
 
+# trial = [0]
 
-trial = [0]
+# crazy = new_list + trial # adds all elements to the list
+# print(crazy)
 
-crazy = new_list * trial 
-print(crazy)
+a = new_list[1 : 2] # this prints all elements from the first number index to the last
+print(a)
+
+b = new_list[::2] # this prints all elements from the 
+#                      first number index to the last with skipping with the second number
+
+print(b)
