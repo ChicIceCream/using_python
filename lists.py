@@ -31,7 +31,7 @@ new_list = [1,2,3,4,5] # * 5 # this repeats the whole list
 
 copied_list = new_list.copy()
 
-squared_list = [i*i for i in new_list]
+squared_list = [i*i for i in new_list] # this is the way to square all the nuumbers VERY IMPORTNAT!
 
 print(new_list)
 print(squared_list)
