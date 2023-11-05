@@ -27,5 +27,6 @@ print(a)
 
 b = new_list[::2] # this prints all elements from the 
 #                      first number index to the last with skipping with the second number
-
 print(b)
+
+copyied_list = 
