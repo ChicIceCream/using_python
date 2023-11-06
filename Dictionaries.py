@@ -11,3 +11,5 @@ print(print_name)
 
 mydict["email"] = "yessir@gmail.com"
 print(mydict)
+mydict.popitem()
+print(mydict)
