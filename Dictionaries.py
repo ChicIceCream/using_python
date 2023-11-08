@@ -25,3 +25,20 @@ else:
     
 for key, value in mydict.items():
     print(key, value)
+
+# merging 2 dictionaires
+
+first_dict = {
+    "day" : "today",
+    "weekend" : "no"
+}
+
+second_dict = {
+    "day" : "tommorow",
+    "weekday" : True
+}
+
+first_dict.update(second_dict)
+
+print(first_dict)
+print(second_dict)
