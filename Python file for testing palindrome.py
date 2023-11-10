@@ -1,5 +1,3 @@
-
-num1 = 121
 list1 = input("Enter your number : ")
 print(list1)
 

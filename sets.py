@@ -14,4 +14,4 @@ setB = {1,2,3,4,5,6}
 setA.update(setB)
 print(setA)
 
-print(setB.issubset(setA))
+print(setB.issubset(setA)) # prints true ofr false if one set is a subset or not
