@@ -19,3 +19,4 @@ print(c)
 
 c = random.sample(mylist, 3) # prints numerous random values
 print(c)
+
