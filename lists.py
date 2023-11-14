@@ -26,7 +26,7 @@ new_list = [1,2,3,4,5] # * 5 # this repeats the whole list
 # print(a)
 
 # b = new_list[::2] # this prints all elements from the 
-#                       first number index to the last with skipping with the second number
+#                      first number index to the last with skipping with the second number
 # print(b)
 
 copied_list = new_list.copy()
