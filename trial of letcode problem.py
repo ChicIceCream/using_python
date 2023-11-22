@@ -8,4 +8,5 @@ array2.append(array1[0])
 for i in range(1, len(array1)+1):
     array2.append(array1[i+1] + array1[i-1])
 
+print(array1)
 print(array2)
